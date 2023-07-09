@@ -1,8 +1,8 @@
 # devops-project-app-manifest
 We build DevOps for application from scratch
 # Techstack
-- Language: NodeJs
-- Cloud : GCP
+- Language: Java
+- Cloud : AWS
 - Infrastructure as code: Terraform
 - CI/CD: Jenkins, GitHub action
 - Monitoring: Grafana, Prometheus, Loki
@@ -10,6 +10,6 @@ We build DevOps for application from scratch
 
 # Requests:
 
-1. Init infrastucture ([task](https://github.com/devopsway/devops-project-manifest/issues/1))
-2. Develop application ([task](https://github.com/devopsway/devops-project-manifest/issues/5))
-3. Install Jenkins ([task](https://github.com/devopsway/devops-project-manifest/issues/3))
+1. Init infrastucture [([task](https://github.com/devops-project-app/devops-project-app-manifest/issues/1))]
+2. Develop application [([task](https://github.com/devops-project-app/devops-project-app-manifest/issues/5))]
+3. Install Jenkins ([task](https://github.com/devops-project-app/devops-project-app-manifest/issues/3))
