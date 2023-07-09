@@ -1,4 +1,4 @@
-# devops-project-app-manifest
+# I am Ngoc Hung
 We build DevOps for application from scratch
 # Techstack
 - Language: Java, Angular
