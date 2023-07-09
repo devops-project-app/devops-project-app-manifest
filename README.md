@@ -1,10 +1,10 @@
 # devops-project-app-manifest
 We build DevOps for application from scratch
 # Techstack
-- Language: Java
+- Language: Java, Angular
 - Cloud : AWS
 - Infrastructure as code: Terraform
-- CI/CD: Jenkins, GitHub action
+- CI/CD: Jenkins, GitHub Action
 - Monitoring: Grafana, Prometheus, Loki
 - Container: Docker, Kubernetes
 
